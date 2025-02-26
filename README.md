@@ -2,17 +2,19 @@
 
 I’m a seasoned full-stack software developer with hands-on experience in tackling complex challenges using cutting-edge technologies. I believe in continuous growth, maximizing efficiency through automation, writing clean and maintainable code, fostering team trust, leading with empathy, and delivering impactful results.
 
-<!--
-**rejuancse/rejuancse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Expertise**
 
-Here are some ideas to get you started:
+- Programming & Best Practices: OOP, Clean Code
+- Backend Development: PHP, JavaScript (ES6+), TypeScript
+- Frameworks & Platforms: WordPress, Laravel, Bootstrap, 
+- Databases: MySQL, MongoDB
+- Frontend Technologies: React, Vue.js
+- DevOps & Tools: Docker
+- Methodologies: Agile, Team Empowerment, and Effective Delivery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**How to reach me**
+
+- WordPress Plugins: https://profiles.wordpress.org/rejuancse/
+- LinkedIn: https://www.linkedin.com/in/rejuan-ahamed/
+- Email: rejuan.17bd@gmail.com
