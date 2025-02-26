@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Rejuan Ahamed 👋
+
+I’m a seasoned full-stack software developer with hands-on experience in tackling complex challenges using cutting-edge technologies. I believe in continuous growth, maximizing efficiency through automation, writing clean and maintainable code, fostering team trust, leading with empathy, and delivering impactful results.
 
 <!--
 **rejuancse/rejuancse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
