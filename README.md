@@ -1,6 +1,6 @@
 ## Hi there, I am Rejuan Ahamed 👋
 
-I’m a seasoned full-stack software developer with hands-on experience in tackling complex challenges using cutting-edge technologies. I believe in continuous growth, maximizing efficiency through automation, writing clean and maintainable code, fostering team trust, leading with empathy, and delivering impactful results.
+I’m a seasoned full-stack software developer with a strong track record of solving complex problems using modern technologies. I prioritize continuous learning, automation for efficiency, clean and maintainable code, team trust, empathetic leadership, and delivering meaningful, high-impact results.
 
 **Technical Expertise**
 
@@ -15,6 +15,11 @@ I’m a seasoned full-stack software developer with hands-on experience in tackl
 
 **How to reach me**
 
+- Online Judge ID: https://uhunt.onlinejudge.org/id/1263420
+- Hacker Rank ID: https://www.hackerrank.com/profile/rejuan_17bd
 - WordPress Plugins: https://profiles.wordpress.org/rejuancse/
 - LinkedIn: https://www.linkedin.com/in/rejuan-ahamed/
 - Email: rejuan.17bd@gmail.com
+
+**My Resume**
+Resume(https://drive.google.com/file/d/1fdnxHmPrv6xAORWvp3C0bUwnvAOUiZWD/view?usp=sharing)
