@@ -22,4 +22,4 @@ I’m a seasoned full-stack software developer with a strong track record of sol
 - Email: rejuan.17bd@gmail.com
 
 **My Resume**
-Resume(https://drive.google.com/file/d/1fdnxHmPrv6xAORWvp3C0bUwnvAOUiZWD/view?usp=sharing)
+https://drive.google.com/file/d/1fdnxHmPrv6xAORWvp3C0bUwnvAOUiZWD/view?usp=sharing
