@@ -19,6 +19,7 @@ I’m a seasoned full-stack software developer with a strong track record of sol
 - Hacker Rank ID: https://www.hackerrank.com/profile/rejuan_17bd
 - WordPress Plugins: https://profiles.wordpress.org/rejuancse/
 - LinkedIn: https://www.linkedin.com/in/rejuan-ahamed/
+- CodePen: https://codepen.io/Rejuan-Ahamed-the-selector
 - Email: rejuan.17bd@gmail.com
 
 **My Resume**
