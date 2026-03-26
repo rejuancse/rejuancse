@@ -21,6 +21,3 @@ I’m a seasoned full-stack software developer with a strong track record of sol
 - LinkedIn: https://www.linkedin.com/in/rejuan-ahamed/
 - CodePen: https://codepen.io/Rejuan-Ahamed-the-selector
 - Email: rejuan.17bd@gmail.com
-
-**My Resume**
-https://drive.google.com/file/d/1fdnxHmPrv6xAORWvp3C0bUwnvAOUiZWD/view?usp=sharing
